@@ -1,0 +1,8 @@
+rasterio
+matplotlib
+torchinfo
+tqdm
+torchvision
+scikit-learn
+torch
+
